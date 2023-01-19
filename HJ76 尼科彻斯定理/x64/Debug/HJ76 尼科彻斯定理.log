@@ -1,0 +1,3 @@
+﻿  源.c
+D:\vs2022\code\HJ76 尼科彻斯定理\源.c(34,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  HJ76 尼科彻斯定理.vcxproj -> D:\vs2022\code\HJ76 尼科彻斯定理\x64\Debug\HJ76 尼科彻斯定理.exe
