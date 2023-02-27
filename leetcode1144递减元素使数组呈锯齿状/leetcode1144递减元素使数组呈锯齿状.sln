@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode1144递减元素使数组呈锯齿状", "leetcode1144递减元素使数组呈锯齿状.vcxproj", "{68312DAF-437E-4DEC-82EA-E0A81A5DC795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68312DAF-437E-4DEC-82EA-E0A81A5DC795}.Debug|x64.ActiveCfg = Debug|x64
+		{68312DAF-437E-4DEC-82EA-E0A81A5DC795}.Debug|x64.Build.0 = Debug|x64
+		{68312DAF-437E-4DEC-82EA-E0A81A5DC795}.Debug|x86.ActiveCfg = Debug|Win32
+		{68312DAF-437E-4DEC-82EA-E0A81A5DC795}.Debug|x86.Build.0 = Debug|Win32
+		{68312DAF-437E-4DEC-82EA-E0A81A5DC795}.Release|x64.ActiveCfg = Release|x64
+		{68312DAF-437E-4DEC-82EA-E0A81A5DC795}.Release|x64.Build.0 = Release|x64
+		{68312DAF-437E-4DEC-82EA-E0A81A5DC795}.Release|x86.ActiveCfg = Release|Win32
+		{68312DAF-437E-4DEC-82EA-E0A81A5DC795}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB3D88D2-F274-4A2E-9BA5-69A9AF9C92B8}
+	EndGlobalSection
+EndGlobal
