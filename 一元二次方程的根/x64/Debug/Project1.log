@@ -1,0 +1,4 @@
+﻿  源.c
+D:\vs2022\code\Project1\源.c(25,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vs2022\code\Project1\源.c(26,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> D:\vs2022\code\Project1\x64\Debug\Project1.exe
