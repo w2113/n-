@@ -1,0 +1,6 @@
+﻿  源.c
+D:\vs2022\code\Project1\源.c(16,29): warning C4047: “函数”:“char *”与“char (*)[100]”的间接级别不同
+D:\vs2022\code\Project1\源.c(16,26): warning C4024: “my_strcat”: 形参和实参 1 的类型不同
+D:\vs2022\code\Project1\源.c(16,34): warning C4047: “函数”:“char *”与“char (*)[100]”的间接级别不同
+D:\vs2022\code\Project1\源.c(16,31): warning C4024: “my_strcat”: 形参和实参 2 的类型不同
+  Project1.vcxproj -> D:\vs2022\code\Project1\Debug\Project1.exe
