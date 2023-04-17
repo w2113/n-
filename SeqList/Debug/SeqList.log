@@ -1,0 +1,3 @@
+﻿  SeqList.c
+D:\vs2022\code\SeqList\SeqList.c(66): warning C4715: “SeqListFind”: 不是所有的控件路径都返回值
+  SeqList.vcxproj -> D:\vs2022\code\SeqList\Debug\SeqList.exe
