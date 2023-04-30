@@ -1,0 +1,4 @@
+﻿  源.c
+D:\vs2022\code\PTA 7-32 说反话\源.c(10,5): warning C4013: “gets”未定义；假设外部返回 int
+D:\vs2022\code\PTA 7-32 说反话\源.c(11,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  PTA 7-32 说反话.vcxproj -> D:\vs2022\code\PTA 7-32 说反话\x64\Debug\PTA 7-32 说反话.exe
