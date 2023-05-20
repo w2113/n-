@@ -1,0 +1,2 @@
+D:\vs2022\code\Project2\x64\Debug\Project2.exe
+D:\vs2022\code\YOLO\去掉重复的数\x64\Debug\Project2.exe

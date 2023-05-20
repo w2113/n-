@@ -1,0 +1,1 @@
+D:\vs2022\code\strcpy模拟\x64\Debug\strcpy模拟.exe

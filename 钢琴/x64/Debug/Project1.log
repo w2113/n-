@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\vs2022\code\Project1\源.cpp(55,10): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+D:\vs2022\code\Project1\源.cpp(55,10): warning C4313: "printf": 格式字符串中的 "%p" 与类型为 "int" 的参数 1 冲突
+  Project1.vcxproj -> D:\vs2022\code\Project1\x64\Debug\Project1.exe

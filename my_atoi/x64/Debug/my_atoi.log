@@ -1,0 +1,3 @@
+﻿  源.c
+D:\vs2022\code\my_atoi\源.c(47,12): warning C4047: “=”:“const char *”与“int”的间接级别不同
+  my_atoi.vcxproj -> D:\vs2022\code\my_atoi\x64\Debug\my_atoi.exe

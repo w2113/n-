@@ -1,0 +1,2 @@
+D:\vs2022\code\最长连续因子\x64\Debug\最长连续因子.exe
+D:\vs2022\code\N1020最长连续因子\x64\Debug\最长连续因子.exe

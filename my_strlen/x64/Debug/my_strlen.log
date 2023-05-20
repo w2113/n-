@@ -1,0 +1,3 @@
+﻿  源.c
+D:\vs2022\code\my_strlen\源.c(23,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  my_strlen.vcxproj -> D:\vs2022\code\my_strlen\x64\Debug\my_strlen.exe

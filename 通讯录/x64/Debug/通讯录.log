@@ -1,0 +1,3 @@
+﻿  contcat.c
+D:\vs2022\code\YOLO\通讯录\contcat.c(99,5): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  通讯录.vcxproj -> D:\vs2022\code\YOLO\通讯录\x64\Debug\通讯录.exe
