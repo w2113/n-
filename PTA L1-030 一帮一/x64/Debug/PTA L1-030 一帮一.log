@@ -1,0 +1,4 @@
+﻿  源.c
+D:\vs2022\code\PTA L1-030 一帮一\源.c(8,6): warning C4101: “arr1”: 未引用的局部变量
+D:\vs2022\code\PTA L1-030 一帮一\源.c(7,6): warning C4101: “arr0”: 未引用的局部变量
+  PTA L1-030 一帮一.vcxproj -> D:\vs2022\code\PTA L1-030 一帮一\x64\Debug\PTA L1-030 一帮一.exe
