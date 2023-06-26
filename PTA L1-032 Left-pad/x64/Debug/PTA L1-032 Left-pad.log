@@ -1,0 +1,4 @@
+﻿  源.c
+D:\vs2022\code\PTA L1-032 Left-pad\源.c(11,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\vs2022\code\PTA L1-032 Left-pad\源.c(12,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PTA L1-032 Left-pad.vcxproj -> D:\vs2022\code\PTA L1-032 Left-pad\x64\Debug\PTA L1-032 Left-pad.exe
