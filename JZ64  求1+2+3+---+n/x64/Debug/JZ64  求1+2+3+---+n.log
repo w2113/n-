@@ -1,0 +1,2 @@
+﻿  源.cpp
+D:\vs2022\code\JZ64  求1+2+3+---+n\源.cpp(28,27): error C3867: “Solution::Sum_Solution”: 非标准语法；请使用 "&" 来创建指向成员的指针
