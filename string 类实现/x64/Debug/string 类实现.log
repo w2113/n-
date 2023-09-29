@@ -1,0 +1,22 @@
+﻿  源.cpp
+D:\vs2022\code\string 类实现\stringg.h(203,12): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+D:\vs2022\code\string 类实现\stringg.h(203,12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\vs2022\code\string 类实现\stringg.h(203,14): error C2473: “operator <<”: 看起来像函数定义，但却没有参数列表。
+D:\vs2022\code\string 类实现\stringg.h(203,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\vs2022\code\string 类实现\stringg.h(203,34): error C2065: “_cout”: 未声明的标识符
+D:\vs2022\code\string 类实现\stringg.h(203,41): error C2059: 语法错误:“const”
+D:\vs2022\code\string 类实现\stringg.h(204,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\vs2022\code\string 类实现\stringg.h(204,5): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\vs2022\code\string 类实现\stringg.h(209,12): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+D:\vs2022\code\string 类实现\stringg.h(209,12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\vs2022\code\string 类实现\stringg.h(209,14): error C2473: “operator >>”: 看起来像函数定义，但却没有参数列表。
+D:\vs2022\code\string 类实现\stringg.h(209,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\vs2022\code\string 类实现\stringg.h(209,34): error C2065: “_cin”: 未声明的标识符
+D:\vs2022\code\string 类实现\stringg.h(209,55): error C2065: “s”: 未声明的标识符
+D:\vs2022\code\string 类实现\stringg.h(209,47): error C2275: “loopy::string”: 应为表达式而不是类型
+D:\vs2022\code\string 类实现\stringg.h(209,24): error C2440: “初始化”: 无法从“initializer list”转换为“int &”
+D:\vs2022\code\string 类实现\stringg.h(209,24): message : 无法对引用类型进行值初始化
+D:\vs2022\code\string 类实现\stringg.h(210,5): error C2059: 语法错误:“{”
+D:\vs2022\code\string 类实现\stringg.h(210,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\vs2022\code\string 类实现\stringg.h(210,5): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\vs2022\code\string 类实现\stringg.h(238,9): error C2065: “_cin”: 未声明的标识符
