@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\vs2022\code\leetcode 137 只出现一次的数字2\源.cpp(27,6): error C2664: “int Solution::singleNumber(std::vector<int,std::allocator<int>> &)”: 无法将参数 1 从“std::vector<int,std::allocator<int>> *”转换为“std::vector<int,std::allocator<int>> &”
+D:\vs2022\code\leetcode 137 只出现一次的数字2\源.cpp(8,9): message : 参见“Solution::singleNumber”的声明
+D:\vs2022\code\leetcode 137 只出现一次的数字2\源.cpp(27,6): message : 尝试匹配参数列表“(std::vector<int,std::allocator<int>> *)”时
